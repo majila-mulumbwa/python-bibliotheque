@@ -1,6 +1,6 @@
 import json
-from class_livre import*
-from class_utilisateur import*
+from utili_struct import*
+from livre_struct import*
 # Gestion des Livres
 
 def ajouter_livre(bibliotheque):
